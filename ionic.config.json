@@ -1,0 +1,7 @@
+{
+  "name": "myCatApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
